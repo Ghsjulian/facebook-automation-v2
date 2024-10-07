@@ -41,8 +41,8 @@
 <br/>
 
 ```python
-git clone https://github.com/Ghsjulian/facebook-automation-V2.git
-cd facebook-automation-V2
+git clone https://github.com/Ghsjulian/facebook-automation-v2.git
+cd facebook-automation-v2
 python run.py
 ```
 
